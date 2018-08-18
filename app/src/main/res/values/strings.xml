@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">DelhiTour</string>
+    <string name="location">location</string>
+    <string name="redfort">Red Fort</string>
+    <string name="qutub">Qutb Minar</string>
+    <string name="lotus">Lotus Temple</string>
+    <string name="jantarmantr">Jantar Mantar</string>
+    <string name="humayunTomb">Humayun Tomb</string>
+    <string name="indaigate">India Gate</string>
+    <string name="places">Places</string>
+    <string name="janpath">Janpath and Tibetan Market</string>
+    <string name="palika">Palika Bazaar</string>
+    <string name="dillhat">Dilli Haat</string>
+    <string name="market">Market</string>
+    <string name="chandni">Chandni Chowk</string>
+    <string name="sarjoni">Sarojini Nagar</string>
+    <string name="gaffr">Ghaffar Market</string>
+    <string name="khnmarkt">Khan Market</string>
+    <string name="thelila">The Leela Palace</string>
+    <string name="itcmuyra">ITC Maurya</string>
+    <string name="hyttregency">Hyatt Regency</string>
+    <string name="parkplaza">Park Plaza</string>
+    <string name="tajpalace">Taj Palace</string>
+    <string name="thelalit">The Lalit</string>
+    <string name="cholebture">Chole Bhature</string>
+    <string name="momo">Momos</string>
+    <string name="butterchikn">Butter Chicken</string>
+    <string name="dessrts">Desserts</string>
+    <string name="rolls">Rolls</string>
+    <string name="bhleepapri">Chaat</string>
+    <string name="food">Foods</string>
+    <string name="redforthis">Iconic 1600s imperial residence &amp; museum
+
+Landmark 17th-century Mughal fortress built in towering red sandstone, now a complex of museums.
+
+</string>
+    <string name="qutubhis">5-storey victory tower with balconies
+
+73m tapering tower built in 1193 by Qutab-ud-din Aibak after defeat of Delhi's last Hindu kingdom.
+    </string>
+    <string name="humanyhis">Palatial 16th-century tomb of Humayun
+
+Opulent red-sandstone tomb of Mughal Emperor Humayun, built in 1572 &amp; surrounded by formal gardens.
+
+</string>
+    <string name="idnigatehis">1920s triumphal arch &amp; war memorial
+
+Imposing Arc de Triomphe-style gate commemorating the Indian soldiers killed in the First World War.
+
+</string>
+    <string name="chndnichkdetl">Chandni Chowk is one of the most popular shopping places in Delhi. Tough the winding lanes of this area are untidy and congested, yet people visit this place for purchasing inexpensive things like wedding lehengas, embroidered bags, semi-precious jewelry, silk and cotton clothes.</string>
+    <string name="gaffrdetil">This market is also popular by the name of grey market as one can get china made goods without any difficulty. Electronic goods that are sold here comprises of air-conditioners, cameras, televisions, mobiles as well as other accessories.</string>
+    <string name="sarojnidetail">Sarojini Nagar offers range of fashionable clothes at cheap rates. From apparel to kitchenware, accessories to household items, you will get everything in this market. To get the trendiest of things you can opt for Sarojini Market.</string>
+    <string name="palikadetail">This shopping plaza is situated at the center of Connaught Place and is fully air-conditioned. Delhiites and people visiting Delhi from other region of India purchase clothes, perfumes, accessories, footwear, electronic products, CDs and many other products from Palika Bazaar.</string>
+    <string name="janptdetail">Janpath is a popular local market of Delhi that offers a lot of things. People of all ages and taste can pick something of their choice from Janpath Market. The shops of Janpath offer goods from Tibet and all over India.</string>
+    <string name="jantrmantrhis">18th-century astronomy complex
+
+13 architectural astronomy instruments built in 1724 at the orders of Mughal emperor Muhammad Shah.
+
+</string>
+    <string name="lotustemhis">Temple with a flower-like design
+
+Religious site also known as the Lotus Temple, opened in 1986 and open to those of all religions.
+
+</string>
+    <string name="itcdetail">Address: Sardar Patel Marg, Diplomatic Enclave, New Delhi, Delhi 110021
+        \nPhone: 011 2611 2233
+        <b>\nRating 4.7</b></string>
+    <string name="leeladetil">Address: Diplomatic Enclave, Africa Avenue, Chanakyapuri, New Delhi, Delhi 110023
+        \nPhone: 011 3933 1234
+     <b>\nRating 4.7</b></string>
+    <string name="tajdetail">Address: 2, ardar Patel Marg Diplomatic Enclave, New Delhi, Delhi 110021
+        \nPhone: 011 2611 0202
+    <b>\nRating 4.7</b></string>
+    <string name="hyttdetail">Address: Bhikaiji Cama Place Ring Road, Near Fire Station, New Delhi, Delhi 110066
+        \nPhone: 011 2679 1234
+    <b>\nRating 4.5</b>
+    </string>
+    <string name="parkdetail">Address: Plot 32, Central Business District Shahdara Extension, Vishwas Nagar, Shahdara, Delhi, 110095
+         \nPhone: 011 4563 0000
+    <b>\nRating 4.0</b></string>
+    <string name="lalitdeatil">Address: Barakhamba Rd, Fire Brigade Lane, Connaught Place, New Delhi, Delhi 110001
+       \nPhone: 011 4444 7777
+    <b><i>\nRating 4.5</i></b></string>
+    <string name="khanmarketdetil">Khan market is regarded as one of the posh shopping places in Delhi. This specially designed U-shaped market has well organized book shops, showrooms of branded clothes, boutiques and stores offering classy lifestyle items.</string>
+    <string name="rollsdetail">In Delhi you will find a variety of rolls in different variants. It is one of the famous street foods in Delhi and you can find it in famous and known restaurants also. This food is tasty and easily available or Delhiites and it is best for on the go.</string>
+    <string name="momodetail">Momos is famous dish from North India, but in Delhi, it is one of the famous street foods. You will find stalls and vendor outside every office building and famous streets. This dish is served with really hot red chutney. You </string>
+    <string name="gffardetail">This market is also popular by the name of grey market as one can get china made goods without any difficulty. Electronic goods that are sold here comprises of air-conditioners, cameras, televisions, mobiles as well as other accessories.</string>
+    <string name="dillihatdetail">Dilli Haat is a colorful shopping place that offers traditional handicrafts and handlooms from the villages of India. Therefore, it is named as Dilli Haat because it is set up in a manner Indian village markets are set up.</string>
+    <string name="chollebhturdetail">The real taste of Delhi, resides in a dish known as Chole Bhature. You can easily find this incredible dish in any stall. This dish is spicy, exotic, and really heavy. You can find this dish for breakfast to lunch to dinner and it served with Lassi.</string>
+    <string name="chaatdetail">The spicy, sweet, and tangy taste of Chaat is a famous dish in Delhi, you can find this delicious food item in the streets, and even big restaurants offer various chaat.</string>
+    <string name="dessertdetsil">Delhi is known for the extensive variety of desserts. You can enjoy a full glass of sweet lassi, hot jalebi, tasty Rabri Falooda, variety in Kulfi, Ladoo made from pure desi ghee and many cakes and cookies.</string>
+    <string name="buttrchikdetail">The spicy gravy, chicken dish is famous as butter chicken. It is one of the most loved chicken dishes among people in Delhi. Butter Chicken can easily available in fancy restaurants to local Dhaba. Dish was originated by Moti Mahal Restaurant in 1950s.</string>
+    <string name="hotel">Hotel</string>
+
+</resources>
